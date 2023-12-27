@@ -1,0 +1,31 @@
+.form-body{
+    text-align: center;
+}
+
+.form-body > *{
+    padding: 10px;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.btn{
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 150px;
+    height: 30px;
+}
+
+.link {
+    color: red;
+}
+
+.link:hover {
+  cursor: pointer;
+  color: orange;
+}
