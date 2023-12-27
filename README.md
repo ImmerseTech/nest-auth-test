@@ -14,7 +14,7 @@ This project can be launched using Docker Compose. Ensure that Docker and Docker
 First, clone this repository to your computer:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/ImmerseTech/nest-auth-test
 cd test_login
 ```
 ### Step 2. Create a .env file in the root of './back' folder according to the example:
