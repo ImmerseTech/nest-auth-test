@@ -15,7 +15,7 @@ First, clone this repository to your computer:
 
 ```bash
 git clone https://github.com/ImmerseTech/nest-auth-test
-cd test_login
+cd nest-auth-test
 ```
 ### Step 2. Create a .env file in the root of './back' folder according to the example:
 ```bash
